@@ -1,5 +1,4 @@
 
-
 import org.svetovid.io.SvetovidReader;
 import org.svetovid.io.SvetovidWriter;
 
